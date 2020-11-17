@@ -1,5 +1,5 @@
-# AddressBook
-# output for addressbook program is as below
+ AddressBook
+ output for addressbook program is as below
 $javac AddressBook.java
 $java -Xmx128M -Xms16M AddressBook
 
